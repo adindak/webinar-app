@@ -27,6 +27,22 @@ Sistem manajemen webinar dengan panel admin untuk mengelola webinar, peserta, da
 
 ---
 
+## Screenshots
+
+### Web Promosi Webinar
+
+![Promosi](public/assets/images/[WEBINAR 1]web-promosi-webinar.png)
+
+### Dashboard
+
+![Dashboard](public/assets/images/[WEBINAR 2]dashboard-user-webinar.png)
+
+### Event History
+
+![EventHistory](public/assets/images/[WEBINAR 3]event-history-user-webinar.png)
+
+---
+
 ## 📋 Persyaratan
 
 -   PHP >= 8.2
@@ -87,6 +103,7 @@ npm run build
 
 ```bash
 php artisan serve
+npm run dev
 ```
 
 ## 🔐 Authentication
