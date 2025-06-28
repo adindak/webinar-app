@@ -31,15 +31,15 @@ Sistem manajemen webinar dengan panel admin untuk mengelola webinar, peserta, da
 
 ### Web Promosi Webinar
 
-![Promosi](public/assets/images/[WEBINAR 1]web-promosi-webinar.png)
+### Promosi
+<img src="https://raw.githubusercontent.com/adindak/webinar-app/refs/heads/main/public/assets/images/%5BWEBINAR%201%5Dweb-promosi-webinar.png" alt="Promosi" width="800">
 
 ### Dashboard
-
-![Dashboard](public/assets/images/[WEBINAR 2]dashboard-user-webinar.png)
+<img src="https://raw.githubusercontent.com/adindak/webinar-app/refs/heads/main/public/assets/images/%5BWEBINAR%202%5Ddashboard-user-webinar.png" alt="Dashboard" width="800">
 
 ### Event History
 
-![EventHistory](public/assets/images/[WEBINAR 3]event-history-user-webinar.png)
+<img src="https://raw.githubusercontent.com/adindak/webinar-app/refs/heads/main/public/assets/images/%5BWEBINAR%203%5Devent-history-user-webinar.png" alt="EventHistory" width="800">
 
 ---
 
